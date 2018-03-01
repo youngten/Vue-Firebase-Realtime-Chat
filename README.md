@@ -1,6 +1,6 @@
-# vue-firebase-realtime-chat
+# Vue-Firebase-Realtime-Chat
 
-> A Vue.js and firebase project
+> A Vue.js and Firebase project
 
 ## Build Setup
 
